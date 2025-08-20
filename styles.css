@@ -2,6 +2,7 @@
     background-color: lightgray;
     color: black;
 }
-buttom{
+.botao{
     background-color: royalblue;
+    margin: auto;
 }
